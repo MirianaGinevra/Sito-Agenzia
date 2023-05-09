@@ -1,0 +1,51 @@
+body { 
+    font-family:Helvetica;
+    background-color: #BDCCE4;
+    margin:0;}
+header { 
+    color:#2B3A52;
+    background-color: #508F62;
+    max-width: auto;
+    display:flex;}
+.saa{ font-size: 280%;}
+.home{margin-left: 30px;}
+.artist {margin-left: 300px;}
+.shop{margin-left: 390px;}
+.homepage{ margin-left:60px;}
+.centered{
+    position:absolute;
+    top: 70%;
+    left:25%;
+    transform:translate (-50%,-50%);
+    background-color: #BDCCE4;
+    font-weight: 600;
+    font-size: 300%;
+    color:#689C7F;}
+    h1{ font-family:Helvetica;
+    color :#888787 ;
+    margin-left: 10%;
+font-size: 400%;}
+h3{font-family:Helvetica;
+color: #415740;
+font-size:45px;
+margin-left: 10%;
+}
+p{ margin-top: 20px;
+    margin-left: 50px;
+    font-size: 20px;}
+footer{ 
+    padding: 15px;
+    padding-left: 20px;
+    margin-top: 200px;
+    background-color:#508F62;
+    color:#2B3A52;
+    text-align: center;
+    font-size: small;
+    font-family:Helvetica;
+
+}
+.footer{ font-family:Helvetica;
+   text-align: center;
+font-size: small;
+color:#2B3A52;
+}
